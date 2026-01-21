@@ -21,7 +21,7 @@ Build a modern, fully responsive landing page using HTML, CSS, and JavaScript wi
 - Clean and modern UI
 
 ## 🔹 Live Preview
-(You can add GitHub Pages link here later)
+1.Clone the repo: git clone:- AmanThinks/PRODIGY_WD_01
 
 
 ## 🔹 Author

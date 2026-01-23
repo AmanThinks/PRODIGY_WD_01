@@ -2,14 +2,14 @@
 
 This project is part of my **Web Development Internship at Prodigy InfoTech**.
 
-## 🔹 Task Description
+## 🚀 Task Description
 Build a modern, fully responsive landing page using HTML, CSS, and JavaScript with:
 - Fixed navbar with scroll effects
 - Responsive hamburger menu
 - Smooth scrolling
 - Modern UI & animations
 
-## 🔹 Technologies Used
+## 🛠 Technologies Used
 - HTML5
 - CSS3 (Flexbox, Grid, Media Queries)
 - JavaScript (DOM Manipulation)
@@ -20,7 +20,7 @@ Build a modern, fully responsive landing page using HTML, CSS, and JavaScript wi
 - Smooth scrolling and hover animations
 - Clean and modern UI
 
-## 🔹 Live Preview
+## 🌐 Live Preview
 👉 Clone the repo: git clone:- https://amanthinks.github.io/PRODIGY_WD_01/
 
 
@@ -33,6 +33,6 @@ GitHub:-https://github.com/AmanThinks
 
 ---
 
-**Internship:** Prodigy InfoTech  
+**📌 Internship:** Prodigy InfoTech  
 **Track:** Web Development  
 **Task:** 01
